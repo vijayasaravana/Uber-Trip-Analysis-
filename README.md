@@ -95,7 +95,7 @@ This page provides a granular, row-level view of individual trips.
 Feel free to connect with me for any questions or collaborations:
 
 * **[Your Name/Username]** Vijayasaravanan C
-* **LinkedIn:** [[Link to your LinkedIn Profile]](https://www.linkedin.com/in/vijayasaravanan-c/)
-* **GitHub:** [[Link to your GitHub Profile if different from repo URL]](https://github.com/vijayasaravana?tab=repositories)
+* **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/vijayasaravanan-c/)
+* **GitHub:** [[GitHub]](https://github.com/vijayasaravana?tab=repositories)
 
 ---
